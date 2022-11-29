@@ -7,6 +7,7 @@ void setup() {
   displayOrientation();
   appWidth = width;
   appHeight = height;
+  //
   //Population
   //Theme: i.e. Face (will work in portrait and landscape)
   faceSetup();

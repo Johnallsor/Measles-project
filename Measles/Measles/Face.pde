@@ -1,7 +1,7 @@
 void faceSetup() {
   //Face: inscribing a circle in a square (i.e. logical rectangle)
   //Start from center of display
-  rect(rectFacex, rectFaceY, rectFaceWidth, rectFaceHeight);
+  rect(rectFaceX, rectFaceY, rectFaceWidth, rectFaceHeight);
   circle(faceX, faceY, faceDiameter, faceDiameter);
 } //End faceSetup
 //
