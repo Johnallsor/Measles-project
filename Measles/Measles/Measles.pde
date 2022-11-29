@@ -8,9 +8,13 @@ void setup() {
   appWidth = width;
   appHeight = height;
   //
-  //Population
+  population();
   //Theme: i.e. Face (will work in portrait and landscape)
   faceSetup();
+  eyes();
+  nose();
+  mouth();
+  measlesDynamic();
   //Background Image (could be in draw too)
 }//End setup
 //
