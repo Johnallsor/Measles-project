@@ -1,4 +1,4 @@
-void population() {} //End Population
+void population() { //End Population
 //
 float centerX = appWidth*1/2;
 float centerY = appHeight*1/2;
@@ -9,5 +9,5 @@ rectFaceHeight = rectFaceWidth; //rectFace is square
 faceX = centerX; 
 faceY = centerY; 
 faceDiameter = appHeight; 
-//
+}//
 //End Population Subprogram
